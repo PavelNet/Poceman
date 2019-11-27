@@ -1,0 +1,25 @@
+.row {
+    padding-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.filter-button {
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+    width: 148px;
+}
+
+.subtitle {
+    margin-top: 1rem;
+}
+
+.subtitle b {
+    color: rgb(30, 79, 158);
+}
+
+.top Button {
+    margin-top: 8px;
+    margin-right: 16px;
+} 

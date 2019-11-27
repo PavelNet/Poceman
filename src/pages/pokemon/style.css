@@ -1,0 +1,12 @@
+.pokemon-img {
+    margin: 1rem 2rem;
+    transform: scale(2);
+}
+
+.poke-container {
+    margin: 2rem 0;
+}
+
+.evolution-container {
+    margin: 1rem 0;   
+}

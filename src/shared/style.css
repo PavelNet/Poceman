@@ -1,0 +1,20 @@
+.link-pokemon {
+    color: #222;
+    transition: 0.1s;
+}
+
+.link-pokemon:hover {
+    color: #444;
+    text-decoration: none;
+    transition: 0.1s;
+}
+
+.link-pokemon img {
+    transform: scale(1);
+    transition: 0.2s;
+}
+
+.link-pokemon:hover img {
+    transform: scale(2);
+    transition: 0.2s;
+}
