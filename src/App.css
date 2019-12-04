@@ -32,7 +32,7 @@ img {
 
 .image {
   height: 400px;
-  
+
   image-rendering: pixelated;
   border: 2px solid black
 }
